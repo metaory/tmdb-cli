@@ -1,0 +1,7 @@
+{
+  "name": "tmdb-cli",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "The movie database cli client",
+  "license": "MIT"
+}
